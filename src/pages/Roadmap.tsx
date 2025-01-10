@@ -60,17 +60,17 @@ export default function Roadmap() {
                 <h3 className="text-lg font-medium text-white">Token Lock (5%)</h3>
               </div>
               <p className="text-gray-300 text-sm pl-6">
-                We've set aside 7.5% of the tokens in a secure reserve. This helps us plan for the future—whether it's funding new developments, forming partnerships, or tackling unforeseen opportunities.
+                We've set aside 5% of the tokens in a secure reserve. This helps us plan for the future—whether it's funding new developments, forming partnerships, or tackling unforeseen opportunities.
               </p>
             </div>
 
             <div className="space-y-4">
               <div className="flex items-center gap-2">
                 <div className="w-4 h-4 bg-orange-500 rounded-full"></div>
-                <h3 className="text-lg font-medium text-white">Team (2.5%)</h3>
+                <h3 className="text-lg font-medium text-white">Team (5%)</h3>
               </div>
               <p className="text-gray-300 text-sm pl-6">
-                Our team holds a small 2.5% of the tokens. This keeps us motivated and aligned with the project's success while ensuring most of the value remains with the community.
+                Our team holds a small 5% of the tokens. This keeps us motivated and aligned with the project's success while ensuring most of the value remains with the community.
               </p>
             </div>
           </div>
