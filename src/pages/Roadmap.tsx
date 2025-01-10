@@ -57,7 +57,7 @@ export default function Roadmap() {
             <div className="space-y-4">
               <div className="flex items-center gap-2">
                 <div className="w-4 h-4 bg-pink-500 rounded-full"></div>
-                <h3 className="text-lg font-medium text-white">Dev Token (7.5%)</h3>
+                <h3 className="text-lg font-medium text-white">Token Lock (5%)</h3>
               </div>
               <p className="text-gray-300 text-sm pl-6">
                 We've set aside 7.5% of the tokens in a secure reserve. This helps us plan for the future—whether it's funding new developments, forming partnerships, or tackling unforeseen opportunities.
