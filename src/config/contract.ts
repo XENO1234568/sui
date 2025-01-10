@@ -1,5 +1,5 @@
 // Contract configuration
 export const CONTRACT = {
-  address: '0x0000000000000000000000000000000000000000', // Replace this with your contract address
+  address: 'Will be revealed soon...', // Replace this with your contract address
   network: 'ethereum',
 };
